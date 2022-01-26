@@ -14,3 +14,21 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.nav-links{
+  border-bottom: 2px white solid;
+}
+
+.nav-links:hover{
+    border-bottom: 2px black solid;
+    cursor: pointer;
+}
+
+.nav-icons:hover{
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+.top-nav-link:hover{
+  cursor: pointer;
+}
